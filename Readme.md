@@ -1,5 +1,10 @@
 # scorpio 3 alpha
 
+## Authors:
+* Artur Bauer
+* Michał Wieczorek
+* Adam Krzykała
+
 ## Requirements:
 * gipio library
 * joystick
